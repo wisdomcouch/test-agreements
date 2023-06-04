@@ -1,4 +1,9 @@
+# Quando Terms
 
+These terms are between Quando ("Company") and you ("Someone").
+
+
+# Blah 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur dignissim nibh nunc, non finibus justo maximus ac. In hac habitasse platea dictumst. Curabitur auctor luctus laoreet. Nunc elit elit, porta at risus condimentum, placerat accumsan lorem. Sed semper a libero at consequat. Praesent dapibus, nisl at tempor imperdiet, justo quam mattis arcu, eget sagittis purus odio cursus lacus. Sed sit amet ex id sem suscipit molestie quis quis velit. In auctor diam a facilisis hendrerit. Sed at dui convallis felis ultricies tincidunt id at risus.
 
