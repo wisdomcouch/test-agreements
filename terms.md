@@ -107,7 +107,7 @@ QUANDO'S CUMULATIVE LIABILITY TO YOU OR ANY OTHER PARTY FOR ANY LOSS OR DAMAGES 
 # 8. SERVICE FAILURES
 Quando does not guarantee and shall have no liability for any Services downtime, including, without limitation, any downtime (A) caused by failures of or previously scheduled maintenance to Quando's equipment or servers; (B) caused by outages to any public Internet backbones, networks or servers; (C) caused by any failures of your equipment, systems or local access services; or (D) relating to events beyond Quando's control, such as strikes, riots, insurrections, fires, floods, explosions, war, governmental actions, labor conditions, earthquakes, natural disasters, or interruptions in Internet services to an area where Quando or your servers are located or co-located.
 
-# <a name="Fees"></a>9. FEES 
+# 9. FEES 
 ## 9.1 Subscription Fees
 The Subscription Fee will remain fixed during the Subscription Term unless you (A) exceed your maximum Accounts or other applicable limits, (B) upgrade products, or (C) subscribe to additional features or products, including additional Accounts. 
 
