@@ -56,7 +56,7 @@ You represent and warrant that you have all rights, licenses, and consents requi
 
 # 3. Privacy
 Quando's Privacy Policy is incorporated into this Agreement and is available at
-https://quando.app/privacy-policy.
+[https://www.quando.app/agreements/privacy](https://www.quando.app/agreements/privacy).
 
 As used in this section, "Personally Identifiable Information" refers to information that can be used to personally identify a unique individual, such as name, address, and phone number.
 
