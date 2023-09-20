@@ -47,15 +47,24 @@ Quando may also receive certain information that may be provided by your browser
 - Referring Site, Application, or Service, including the relevant Search Queries that led you to Quando’s Website
 
 # How do we use this information?
+
 ## Quando Data Usage Policy
+
 Quando will not permit access to, or otherwise divulge to a third party, the information we compile for you from any data entered into our system by you or obtained through API connections to your Facebook, Instagram, Google Adwords, Google Analytics, Webmaster Tools accounts or any other sources except for the express purpose of generating dashboards and analytic reports which have been requested, authorized or approved by you, or unless acting under a good faith belief that such action is necessary to troubleshoot problems with the Services.
 
 Quando’s use and transfer of information received from the API connections listed above to any other app will adhere to the respective API’s Services User Data Policy.
 
+## Data Retention
+
+Quando will follow data deletion and retention policies in compliance with applicable data privacy laws.
+
+Quando will only store Client data provided to us by the Client.  Retention of this data is controlled by the Client and deletion requests can be made at any time through our application or by direct communication via email to support@quando.app.
+
+
 ## Our Client’s Use of Quando
 Quando has no control over its Clients’ activities or the disclosures made by its Clients in their privacy policies or on their websites and cannot be held responsible for any Client’s failure to make these disclosures on its website or for any Client’s use or collection of Client’s User Data that is not permitted under this Privacy Policy or otherwise. For more details on the terms that apply to our Clients’ use of the Quando product.
 
-## Quando’s use of cookies 
+## Quando’s use of cookies
 Quando uses cookies (small text files that Quando stores locally on your computer) to help identify unique visitors and/or devices; assess usage patterns and perform traffic analysis; identify visitor preferences; diagnose problems with our servers, and administer the Quando Service. Quando does not use methods such as browser cache, Flash cookies, or eTags, for acquiring or storing information about end users web browsing activity on Client websites or otherwise.
 
 Depending on how our Clients use Quando’s Services, information contained in Quando cookies placed on the computers of end users may be linked to Personally Identifiable Information in Quando’ database. This allows our Clients to use the Quando Service to better analyze and measure their users’ interactions with their website and to organize activities by the same user on their website across time.
@@ -67,7 +76,7 @@ Please note that if you set your browser to reject cookies, some features of the
 If you do not elect to set your browser preferences to refuse cookies, you consent to have cookies, including cookies used by Quando, placed on your computer when you visit our website.
 
 # Disclosure of Information
-## Service Providers 
+## Service Providers
 Information, including Quando Client Information, Client’s User Data, and any Personally Identifiable Information contained therein, may be shared with certain third-party companies and individuals that help facilitate technical and administrative aspects of the Quando Service (e.g., credit card processing), or perform functions related to the administration of Quando (e.g. hosting services). These third parties perform tasks on our behalf and are contractually obligated not to disclose or use Quando User Information or Client’s User Data for any other purpose, and to employ adequate security measures to prevent unauthorized access to such data. However, Quando is not responsible in the event that Personally Identifiable Information is disclosed at a result of a breach or security lapse by any such third party
 
 ## Law Enforcement and Legal Process
